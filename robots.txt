@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.diatomplus.com/sitemap.xml
+Sitemap: https://diatomplus.com/sitemap.xml
